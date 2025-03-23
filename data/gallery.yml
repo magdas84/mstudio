@@ -1,0 +1,79 @@
+title: "Moje projekty"
+id: "gallery"
+style: "style1 medium lightbox onscroll-fade-in"
+pictures:
+ - title: "Kuchnia"
+   content: "Eleganckie wykończenie kuchni"
+   image: "images/gallery/fulls/kuchniaSasanka2.jpg"
+   thumb: "images/gallery/thumbs/kuchniaSasanka2.jpg"
+   button: "powiększ"
+
+   -title: "Kuchnia"
+   content: "Nowoczesna kuchnia z wyspą"
+   image: "images/gallery/fulls/kuchniaSasanka1.jpg"
+   thumb: "images/gallery/thumbs/kuchniaSasanka1.jpg"
+   button: "powiększ"
+
+ - title: "Kuchnia"
+   content: "Nowoczesna kuchnia z wyspą"
+   image: "images/gallery/fulls/kuchnia1.jpg"
+   thumb: "images/gallery/thumbs/kuchnia1.jpg"
+   button: "powiększ"
+
+ - title: "Salon"
+   content: "Przestronny salon"
+   image: "images/gallery/fulls/salonSasanka1.jpg"
+   thumb: "images/gallery/thumbs/salonSasanka1.jpg"
+   button: "powiększ"
+
+ - title: "Salon"
+   content: "Przestronny salon z jadalnią"
+   image: "images/gallery/fulls/salonSasanka2.jpg"
+   thumb: "images/gallery/thumbs/salonSasanka2.jpg"
+   button: "powiększ"
+
+ - title: "Sypialnia"
+   content: "Elegancka sypialnia z charakterystycznym zagłówkiem"
+   image: "images/gallery/fulls/łóżko_projekt4.jpg"
+   thumb: "images/gallery/thumbs/łóżko_projekt4.jpg"
+   button: "powiększ"
+
+ - title: "Łazienka"
+   content: "Elegancka łazienka w jasnych tonacjach"
+   image: "images/gallery/fulls/lazienka_sasanka2.jpg"
+   thumb: "images/gallery/thumbs/lazienka_sasanka2.jpg"
+   button: "powiększ"
+
+ - title: "Łazienka"
+   content: "Elegancka łazienka w jasnych tonacjach"
+   image: "images/gallery/fulls/lazienka_sasanka4.jpg"
+   thumb: "images/gallery/thumbs/lazienka_sasanka4.jpg"
+   button: "powiększ"
+
+ - title: "Pokój dziewczynek"
+   content: "Przytulny pokój dziecięcy dla dziewczynek"
+   image: "images/gallery/fulls/pokoj_dziewczynek3.jpg"
+   thumb: "images/gallery/thumbs/pokoj_dziewczynek3.jpg"
+   button: "powiększ"
+
+ - title: "Pokój dziewczynek"
+   content: "Przestrzeń do nauki i zabawy"
+   image: "images/gallery/fulls/pokoj_dziewczynek5.jpg"
+   thumb: "images/gallery/thumbs/pokoj_dziewczynek5.jpg"
+   button: "powiększ"
+
+ - title: "Pokój dziewczynek"
+   content: "Kolorowe akcenty w pokoju dziecięcym"
+   image: "images/gallery/fulls/pokoj_dziewczynek6.jpg"
+   thumb: "images/gallery/thumbs/pokoj_dziewczynek6.jpg"
+   button: "powiększ"
+
+ - title: "Pokój dziewczynek"
+   content: "Funkcjonalne rozwiązania w pokoju dziecięcym"
+   image: "images/gallery/fulls/pokoj_dziewczynek7.jpg"
+   thumb: "images/gallery/thumbs/pokoj_dziewczynek7.jpg"
+   button: "powiększ"
+  
+
+ 
+

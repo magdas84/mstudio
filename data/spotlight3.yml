@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "third"
+title : "Kim jestem?"
+content: Cześć, mam na imię <strong>Magda</strong> i jestem projektantką wnętrz.<br><br> Moja historia to opowieść o pasji, która od najmłodszych lat była nieodłączną częścią mojego życia. Wychowując się w otoczeniu remontów i majsterkowania przeprowadzanych przez mojego tatę, w naturalny sposób zafascynowałam się światem aranżacji wnętrz. Każdy numer magazynu „Cztery Kąty” był dla mnie skarbnicą inspiracji, a w wirtualnym świecie gry The Sims godzinami projektowałam i urządzałam wymarzone domy.<br><br>Choć serce podpowiadało mi, że architektura wnętrz jest prawdziwym powołaniem, zdecydowałam się na bardziej „racjonalny” zawód. Z powodzeniem ukończyłam prawo i aplikację, a zdobyte doświadczenie zawodowe pozwoliło mi na wiele lat pracy w branży.<br><br>Jednak z czasem pragnienie realizacji marzeń stawało się coraz silniejsze. Po długich rozważaniach podjęłam trudną decyzję. Zrezygnowałam z kariery prawniczej, by poświęcić się temu, co tak naprawdę kocham.<br><br>Dzisiaj realizuję swoje pasje, tworząc piękne i funkcjonalne wnętrza. Moja historia jest dowodem na to, że nigdy nie jest za późno, by zmienić swoje życie i podążać za tym, co naprawdę sprawia nam radość.<br><br>W życiu prywatnym uwielbiam podróże małe i duże, wędrówki po górach, a Beskidy i Bielsko-Białą traktuję jako mój drugi dom. Miło mi, że tu jesteś i mam nadzieję, że moje projekty wnętrz zainspirują Cię do stworzenia wymarzonego domu.
+button: 
+  label: "Poznaj moje projekty"
+  link: "#gallery"
+image: "images/profilowe.jpeg"

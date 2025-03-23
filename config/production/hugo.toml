@@ -1,0 +1,3 @@
+relativeURLs = "false"
+canonifyURLs = "true"
+baseURL = "https://mstudio.blog/"

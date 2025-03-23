@@ -1,0 +1,33 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "mstudio"
+theme = "hugo-story"
+
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "section"]
+googleAnalytics = "G-5X6NBS3BL7"
+publishDir = "public"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "mstudio - Profesjonalne projektowanie wnętrz, które łączy funkcjonalność z estetyką. Tworzymy unikalne przestrzenie dopasowane do Twoich potrzeb i stylu życia."
+  logo = "images/mstudio_logo.png"
+  favicon = "images/mstudio_logo.png" # Use the logo as the favicon
+
+[Params.asset]
+  fontawesome_css = ["css/fontawesome-all.min.css"]
+  fontawesome_js = ["js/fontawesome-all.min.js"]
+
+[Params.social]

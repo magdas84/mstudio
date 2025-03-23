@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Co mogę dla Ciebie zrobić?"
+content: |
+ <strong>Projekt koncepcyjny</strong>, który obejmuje:<ul class="alt"><li>inwentaryzację<li>projekt układu funkcjonalnego<li>moodboard stylistyczny<li>fotorealistyczną wizualizację<li>listę proponowanych elementów wnętrza oraz materiałów</ul><strong>Ten pakiet jest dla Ciebie</strong>, jeżeli <strong>nie potrzebujesz rysunków wykonawczych</strong>, a <strong>chcesz mieć</strong> pomysł na wnętrze w postaci <strong>wizualizacji</strong>.<br><br><strong>Projekt kompleksowy</strong>, który obejmuje dodatkowo:<br>kosztorys<br>dokumentację techniczną.<br><br><strong>Projekt z nadzorem autorskim</strong>, który obejmuje dodatkowo wizyty na budowie wg zapotrzebowania inwestora.<br><br><strong>Konsultacje zmian deweloperskich i/lub układów funkcjonalnych</strong> tak, aby wnętrze było dopasowane idealnie do potrzeb inwestora i zapewniało maksymalną wygodę.
+button: 
+  label: "Skontaktuj się"
+  link: "#contact-form"
+image: "images/kuchniaSasanka2.jpg"
